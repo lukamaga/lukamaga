@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="77" height="28" viewBox="0 0 77 28" role="img" aria-label="Haskell">
-  <title>Haskell</title>
-  <rect x=".5" y=".5" width="76" height="27" rx="5" fill="#161b22" stroke="#30363d"/>
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="8" y="6" width="16" height="16"><path fill="#9b8cc7" d="M0 110.2L30.1 65 0 19.9h22.6L52.7 65l-30.1 45.1H0z" /><path fill="#ad9bd8" d="M30.1 110.2L60.2 65 30.1 19.9h22.6l60.2 90.3H90.4L71.5 81.9l-18.8 28.2H30.1z" /><path fill="#c486bf" d="M102.9 83.8l-10-15.1H128v15.1h-25.1zM87.8 61.3l-10-15.1H128v15.1H87.8z" /></svg>
-  <text x="29" y="18.25" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="12">Haskell</text>
-</svg>
