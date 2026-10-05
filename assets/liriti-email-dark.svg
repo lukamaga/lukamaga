@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="30" viewBox="0 0 132 30" role="img" aria-label="Email: info@liriti.com">
+  <title>Email: info@liriti.com</title>
+  <rect x=".5" y=".5" width="131" height="29" rx="6" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(12 9.5)" fill="none" stroke="#9198a1" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x=".5" y=".5" width="13" height="10" rx="1.5"/>
+    <path d="m1 1.5 6 4.5 6-4.5"/>
+  </g>
+  <text x="36" y="19.5" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">info@liriti.com</text>
+</svg>

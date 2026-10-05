@@ -9,4 +9,5 @@ LLMs&nbsp;&nbsp;ML&nbsp;&nbsp;Fine-tuning&nbsp;&nbsp;RAG&nbsp;&nbsp;PyTorch&nbsp
 
 <p>
   <a href="mailto:lukashcode@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukamaga/lukamaga/main/assets/gmail-dark.svg?v=14"><img src="https://raw.githubusercontent.com/lukamaga/lukamaga/main/assets/gmail-light.svg?v=14" alt="Gmail: lukashcode@gmail.com" width="188" height="30"></picture></a>
+  <a href="mailto:info@liriti.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/liriti-email-dark.svg"><img src="assets/liriti-email-light.svg" alt="Email: info@liriti.com" width="132" height="30"></picture></a>
 </p>
