@@ -8,5 +8,5 @@ My focus is **AI, software engineering and system automation**. I’m continuous
 LLMs&nbsp;&nbsp;ML&nbsp;&nbsp;Fine-tuning&nbsp;&nbsp;RAG&nbsp;&nbsp;PyTorch&nbsp;&nbsp;Flask&nbsp;&nbsp;FastAPI</samp></p>
 
 <p>
-  <a href="mailto:lukashcode@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gmail-dark.svg"><img src="assets/gmail-light.svg" alt="Gmail: lukashcode@gmail.com" width="188" height="30"></picture></a>
+  <a href="mailto:lukashcode@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukamaga/lukamaga/main/assets/gmail-dark.svg?v=14"><img src="https://raw.githubusercontent.com/lukamaga/lukamaga/main/assets/gmail-light.svg?v=14" alt="Gmail: lukashcode@gmail.com" width="188" height="30"></picture></a>
 </p>
