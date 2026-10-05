@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
+  <title>Cactus</title>
+  <path d="M10 22v-5H7a5 5 0 0 1-5-5V9a2 2 0 0 1 4 0v3a1 1 0 0 0 1 1h3V5a2.5 2.5 0 0 1 5 0v5h2a1 1 0 0 0 1-1V6a2 2 0 0 1 4 0v3a5 5 0 0 1-5 5h-2v8Z" fill="#299663" stroke="#247c51" stroke-width=".7" stroke-linejoin="round"/>
+  <path d="M12.5 5.5v14" fill="none" stroke="#82ce9d" stroke-width="1" stroke-linecap="round" opacity=".65"/>
+  <path d="M9 22h7" fill="none" stroke="#247c51" stroke-width="1.2" stroke-linecap="round"/>
+</svg>
