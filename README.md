@@ -1,4 +1,4 @@
-###🌵Hi, I'm Lukash.
+### 🌵 Hi, I'm Lukash.
 
 I hold a **Bachelor's degree in Computer Science** and am currently pursuing a **Master's degree in Data Science**.
 
