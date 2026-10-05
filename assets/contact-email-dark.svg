@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="202" height="32" viewBox="0 0 202 32" role="img" aria-label="lukashcode@gmail.com">
-  <title>lukashcode@gmail.com</title>
-  <rect x=".5" y=".5" width="201" height="31" rx="6" fill="#161b22" stroke="#30363d"/>
-  <g transform="translate(11 7)" fill="none" stroke="#79c0ff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><rect x="1.5" y="3" width="15" height="12" rx="2"/><path d="m2.5 4.5 6.5 5 6.5-5"/></g>
-  <text x="37" y="20.5" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">lukashcode@gmail.com</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="36" viewBox="0 0 216 36" role="img" aria-label="Gmail: lukashcode@gmail.com">
+  <title>Gmail: lukashcode@gmail.com</title>
+  <!-- Gmail symbol: Simple Icons, CC0-1.0. https://github.com/simple-icons/simple-icons -->
+  <rect x=".5" y=".5" width="215" height="35" rx="7" fill="#161b22" stroke="#30363d"/>
+  <svg x="12" y="8" width="20" height="20" viewBox="0 0 24 24" fill="#ea4335"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>
+  <text x="42" y="22.5" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">lukashcode@gmail.com</text>
 </svg>
